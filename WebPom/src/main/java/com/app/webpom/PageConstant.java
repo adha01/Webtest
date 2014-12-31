@@ -15,5 +15,7 @@ public class PageConstant {
     public final String HOME_PAGE = "home";
     public final String IDM_PAGE = "idm";
     public final String CMN_PAG = "cmn";
+    public final String REG = "REG";
+    public final String UPD = "UPD";
     
 }
