@@ -17,5 +17,7 @@ public class PageConstant {
     public final String CMN_PAG = "cmn";
     public final String REG = "REG";
     public final String UPD = "UPD";
+    public final String AST = "AST";
+    public final String ASB = "ASB";
     
 }
